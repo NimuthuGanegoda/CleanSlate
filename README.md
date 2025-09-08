@@ -1,8 +1,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-# Shiny Adventure
+# CleanSlate Project
 
-Welcome to **Shiny Adventure**! 🚀
+Welcome to **CleanSlate Project**! 🚀
 
 A clean slate project template for starting your next great idea. This repository helps you kick off your development journey with cross-platform setup scripts, clear instructions, and a welcoming space for contribution.
 
