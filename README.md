@@ -1,4 +1,3 @@
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 # Shiny Adventure
@@ -9,7 +8,6 @@ A clean slate project template for starting your next great idea. This repositor
 
 ## Features
 - Easy setup for Linux and Windows
-- MIT licensed for maximum freedom
 - Simple structure to customize for any project
 - Open for contributions and community improvements
 
@@ -58,7 +56,7 @@ Please read our [Code of Conduct](#code-of-conduct) and follow the guidelines fo
 Our project follows the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). Be kind, inclusive, and respectful to all contributors.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project does not currently have an open source license. Please contact the maintainer for usage or redistribution questions.
 
 ## Contact
 For questions or suggestions, open an issue or reach out via GitHub discussions.
